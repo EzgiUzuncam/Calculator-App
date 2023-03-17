@@ -7,4 +7,4 @@ It is a simple javascript application created to calculate expenses.
 HTML5,CSS3 and Javascript <br>
 
 ![](CalculatorApp.gif)
-# Calculator-App
+
